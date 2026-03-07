@@ -2,7 +2,36 @@
   "minecraft-zombie": "🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟪🟩🟩🟩🟩🟪🟩\n🟩🟩🟩⬛⬛🟩🟩🟩\n🟩⬛⬛🟩🟩⬛⬛🟩\n🟩🟩🟩⬛⬛🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩🟩🟩",
   "minecraft-chicken": "⬜⬜⬜⬜⬜⬜⬜⬜\n⬜🟨🟨⬜⬜🟨🟨⬜\n⬜🟨⬛🟨🟨⬛🟨⬜\n⬜⬜🟨🟨🟨🟨⬜⬜\n⬜⬜🟨🟧🟧🟨⬜⬜\n⬜⬜⬜🟥🟥⬜⬜⬜\n⬜⬜⬜⬜⬜⬜⬜⬜",
   "minecraft-diamond": "💎💎💎✨💎💎💎\n💎✨💎💎💎✨💎\n💎💎💎✨💎💎💎",
+  "minecraft-diamond-big": "✨💎💎💎💎💎✨\n💎💎✨💎✨💎💎\n💎✨💎💎💎✨💎\n💎💎✨💎✨💎💎\n✨💎💎💎💎💎✨",
+  "minecraft-creeper": "🟩🟩🟩🟩🟩🟩🟩\n🟩⬛⬛🟩⬛⬛🟩\n🟩⬛⬛🟩⬛⬛🟩\n🟩🟩⬛⬛⬛🟩🟩\n🟩⬛⬛⬛⬛⬛🟩\n🟩⬛🟩⬛🟩⬛🟩",
+  "minecraft-dirt": "🟫🟫🟫🟫🟫🟫\n🟫🟫🟫🟫🟫🟫\n🟩🟩🟩🟩🟩🟩",
+  "minecraft-grass-block": "🟩🟩🟩🟩🟩🟩\n🟩🟩🟩🟩🟩🟩\n🟫🟫🟫🟫🟫🟫",
+  "minecraft-gold": "🟨🟨✨🟨🟨\n🟨✨🟨✨🟨\n🟨🟨✨🟨🟨",
+
   "smile": "😄",
+  "laugh": "😂",
+  "cry": "😭",
+  "angry": "😡",
+  "cool": "😎",
+  "thinking": "🤔",
+
   "heart": "❤️",
-  "fire": "🔥"
+  "blue-heart": "💙",
+  "sparkling-heart": "💖",
+  "broken-heart": "💔",
+
+  "fire": "🔥",
+  "star": "⭐",
+  "sparkles": "✨",
+  "boom": "💥",
+
+  "thumbs-up": "👍",
+  "thumbs-down": "👎",
+  "clap": "👏",
+  "ok": "👌",
+
+  "rocket": "🚀",
+  "robot": "🤖",
+  "skull": "💀",
+  "ghost": "👻"
 }
